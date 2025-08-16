@@ -1,0 +1,7 @@
+envpip pii
+env
+.env
+
+data/
+chroma_db/
+model/
